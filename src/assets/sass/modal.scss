@@ -1,0 +1,39 @@
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.single-btn {
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.btn-groups {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 10px 0px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+input {
+  padding-left: 10px;
+}
